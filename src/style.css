@@ -4,6 +4,7 @@
 @media(max-width:900px){.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.manager-grid,.pos-grid{grid-template-columns:1fr}.stats-grid{grid-template-columns:repeat(2,1fr)}.pos-cart{position:static}.portal-heading{align-items:flex-start;gap:12px;flex-direction:column}}
 @media(max-width:560px){.topbar{height:66px;padding:0 15px}.location-pill{display:none}.user-pill{font-size:10px}.brand b{font-size:19px}.hero{min-height:390px;padding:48px 23px}.hero h1{font-size:43px}.section{padding:45px 16px}.product-grid{grid-template-columns:1fr 1fr;gap:10px}.product-photo{height:135px}.product-info{padding:11px}.product-info h3{font-size:13px}.product-info p{font-size:10px;min-height:45px}.product-bottom>b{font-size:13px}.add-btn{padding:7px 8px;font-size:10px}.order-card{padding:20px}.portal{padding:30px 13px}.portal-heading h1{font-size:32px}.portal-tab{padding:12px 10px;font-size:11px}.panel{padding:15px}.stats-grid{gap:9px}.stat-card{padding:15px}.stat-card b{font-size:22px}.toolbar{flex-wrap:wrap}.toolbar .searchbox{flex-basis:100%}.pos-products{grid-template-columns:1fr}.auth-card{padding:26px}.hero-tag{display:none}}
 
+<<<<<<< HEAD
 
 /* SnapEats customer experience */
 .brand-mark{background:#e45f2b!important;color:#fff8ef!important}
@@ -42,3 +43,5 @@
 @media(max-width:560px){.menu-tools{gap:7px}.menu-tools .btn{padding:8px 10px}}
 
 .delivery-min-warning{color:#b45309;font-weight:700;}
+=======
+
