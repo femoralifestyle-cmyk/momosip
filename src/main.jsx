@@ -93,9 +93,7 @@ function App() {
     {isAdmin && <AdminPortal profile={profile} setNotice={setNotice} setError={setError}/>}
     <footer className="footer">© {new Date().getFullYear()} SnapEats · Unniyal Beach</footer>
   </div>;
-<<<<<<< HEAD
-}
-=======
+
 }
 
 function SetupScreen() {
